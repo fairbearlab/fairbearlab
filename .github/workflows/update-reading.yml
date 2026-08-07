@@ -1,0 +1,39 @@
+name: Update reading list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  update-reading:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Update reading section
+        run: node scripts/update-reading.mjs
+        env:
+          READING_SOURCE_URL: ${{ vars.READING_SOURCE_URL }}
+
+      - name: Commit changes
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "Reading list is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update reading list"
+          git push

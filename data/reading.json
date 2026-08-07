@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Modern Software Engineering",
+    "author": "Dave Farley",
+    "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering"
+  },
+  {
+    "title": "Building a Second Brain",
+    "author": "Tiago Forte",
+    "url": "https://www.goodreads.com/en/book/show/59616977-building-a-second-brain"
+  },
+  {
+    "title": "A New Earth",
+    "author": "Eckhart Tolle",
+    "url": "https://www.goodreads.com/book/show/76334.A_New_Earth"
+  },
+  {
+    "title": "The Righteous Mind",
+    "author": "Jonathan Haidt",
+    "url": "https://www.goodreads.com/book/show/11324722-the-righteous-mind"
+  },
+  {
+    "title": "Nonviolent Communication",
+    "author": "Rosenberg",
+    "url": "https://www.goodreads.com/book/show/71730.Nonviolent_Communication"
+  },
+  {
+    "title": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com/"
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com/"
+  },
+  {
+    "title": "TLDR",
+    "url": "https://tldr.tech/"
+  }
+]
