@@ -1,5 +1,9 @@
 [
   {
+    "title": "What's Our Problem? A Self-Help Book for Societies",
+    "url": "https://www.goodreads.com/en/book/show/102146148-what-s-our-problem"
+  },
+  {
     "title": "Modern Software Engineering",
     "author": "Dave Farley",
     "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering"
@@ -10,23 +14,16 @@
     "url": "https://www.goodreads.com/en/book/show/59616977-building-a-second-brain"
   },
   {
-    "title": "A New Earth",
-    "author": "Eckhart Tolle",
-    "url": "https://www.goodreads.com/book/show/76334.A_New_Earth"
+    "title": "seangoedecke.com",
+    "url": "https://seangoedecke.com/"
   },
   {
-    "title": "The Righteous Mind",
-    "author": "Jonathan Haidt",
-    "url": "https://www.goodreads.com/book/show/11324722-the-righteous-mind"
+    "title": "simonwillison.net",
+    "url": "https://simonwillison.net/"
   },
   {
-    "title": "Nonviolent Communication",
-    "author": "Rosenberg",
-    "url": "https://www.goodreads.com/book/show/71730.Nonviolent_Communication"
-  },
-  {
-    "title": "Smashing Magazine",
-    "url": "https://www.smashingmagazine.com/"
+    "title": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/"
   },
   {
     "title": "Hacker News",
