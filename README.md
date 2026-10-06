@@ -8,6 +8,7 @@ The work here is intentionally exploratory. Some ideas become tools. Some become
 
 - [descry](https://github.com/fairbearlab/descry) - sink-agnostic, event-sourced HTTP uptime engine (Go, CloudEvents 1.0) with a two-layer, rebinding-resistant SSRF guard. Runs in production in my homelab.
 - [rolodex](https://github.com/fairbearlab/rolodex) - merges and deduplicates vCard exports from iCloud and Google. Scored matching, union-find clustering, interactive TUI review.
+- [bear-app-rag](https://github.com/fairbearlab/bear-app-rag) - semantic search over your Bear notes, running entirely on-device and exposed to AI agents through MCP.
 - [choosepaste](https://github.com/fairbearlab/choosepaste) - macOS menu bar utility that pastes clean Plain Text or Markdown from any copied HTML/RTF. Swift app, Go transform engine.
 
 ## What This Is
@@ -24,12 +25,12 @@ The human behind this account is [@adambware](https://github.com/adambware). Fai
 ## Currently Reading
 
 <!-- READING_START -->
+- [What's Our Problem? A Self-Help Book for Societies](https://www.goodreads.com/en/book/show/102146148-what-s-our-problem)
 - [Modern Software Engineering](https://www.goodreads.com/book/show/57345270-modern-software-engineering) - Dave Farley
 - [Building a Second Brain](https://www.goodreads.com/en/book/show/59616977-building-a-second-brain) - Tiago Forte
-- [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth) - Eckhart Tolle
-- [The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) - Jonathan Haidt
-- [Nonviolent Communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) - Rosenberg
-- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [seangoedecke.com](https://seangoedecke.com/)
+- [simonwillison.net](https://simonwillison.net/)
+- [Cloudflare Blog](https://blog.cloudflare.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [TLDR](https://tldr.tech/)
 <!-- READING_END -->
